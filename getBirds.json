@@ -1,0 +1,149 @@
+{
+    "bird_data":{
+        "species": [
+            {
+            "specie_name":"EAGLES & VULTURES",
+            "species_scientific_name": "ACCPITRINFORMES: accipitridae",
+            "bird": [
+                    {
+                    "bird_id":1,
+                    "local_name":"Black-winged (-shouldered) Kite",
+                    "scientific_name":"Elanus caeruleus",
+                    "conservation_status":"",
+                    "general_status":"resident",
+                    "sound_url":"https://scance.000webhostapp.com/olpejata_sounds/Bird-Song-Hero_10.mp3",
+                    "bird_age": 21,
+                    "category":"Ground bird", 
+                    "description":"They have long pink legs, a long thin black bill and are blackish above and white below, with a white head and neck with a varying amount of black. Males have a black back, often with greenish gloss. Females' backs have a brown hue, contrasting with the black remiges.",
+                    "bird_sightings":[
+                        {
+                            "sighting_id": 1,
+                            "birds_count": 5
+                        },{
+                            "sighting_id": 2,
+                            "birds_count": 1
+                        },{
+                            "sighting_id": 3,
+                            "birds_count": 15
+                        }    
+                    ],
+                    "bird_locations":[
+                        "-1.2845056,36.8345088",
+                        "-1.2845697874987079,36.84286176675567",
+                        "-1.2659663253682383,36.752979853019205"
+                    ],
+                    "bird_images_urls":[
+                        "https://cdn.pixabay.com/photo/2017/02/07/16/47/kingfisher-2046453_1280.jpg",
+                        "https://cdn.pixabay.com/photo/2015/11/29/13/08/kingfisher-1068684__180.jpg",
+                        "https://cdn.pixabay.com/photo/2015/11/16/16/28/bird-1045954__180.jpg"
+                    ]
+                },        
+                {"bird_id":2,
+                    "local_name":"Scissor-tailed Kite",
+                    "scientific_name":"Chelictinia riocourii",
+                    "conservation_status":"",
+                    "general_status":"Migrant",
+                    "sound_url":"https://scance.000webhostapp.com/olpejata_sounds/Bird-Song-Hero_11.mp3",
+                    "bird_age": 21,
+                    "category":"Ground bird", 
+                    "description": "The scissor-tailed kite is a small, slim grey and white kite with a relatively weak bill, a broad head, long pointed wings and a deeply forked tail.",
+                    "bird_sightings":[
+                        {
+                            "sighting_id": 11,
+                            "birds_count": 12
+                        },{
+                            "sighting_id":5,
+                            "birds_count": 11
+                        },{
+                            "sighting_id": 7,
+                            "birds_count": 115
+                        }  
+                    ],
+                    "bird_locations":[
+                        "-2.2845056,36.8345088",
+                        "-2.2845697874987079,26.84286176675567",
+                        "-2.2659663253682383,36.752979853019205"
+                    ],
+                    "bird_images_urls":[
+                        "https://cdn.pixabay.com/photo/2014/07/08/13/25/forficatu-387081_1280.jpg",
+                        "https://cdn.pixabay.com/photo/2017/04/25/16/10/bird-2260127_960_720.jpg",
+                        "https://cdn.pixabay.com/photo/2017/09/06/22/09/swallow-2723256_1280.jpg"
+                    ]
+                    }
+                ]
+            
+        },{
+            "specie_name":"HERONS & EGRETS",
+            "species_scientific_name": "PELECANIFORMES: Ardeidae",
+            "bird": [
+                    {
+                    "bird_id":1,
+                    "local_name":"Striated Heron",
+                    "scientific_name":"Butorides striata",
+                    "conservation_status":"Vulnerable",
+                    "general_status":"Resident",
+                    "sound_url":"https://scance.000webhostapp.com/olpejata_sounds/Bird-Song-Hero_12.mp3",
+                    "bird_age": 21,
+                    "category":"Ground bird",
+                    "description":" Small size and overall gray color separates from most other herons and bitterns. Look for contrasting dark cap, distinct pale edges on wing feathers, and white and rufous stripes on front of neck",
+                    "bird_sightings":[
+                        {
+                            "sighting_id": 23,
+                            "birds_count": 5
+                        },{
+                            "sighting_id": 22,
+                            "birds_count": 1
+                        },{
+                            "sighting_id": 23,
+                            "birds_count": 15
+                        }  
+                    ],
+                    "bird_locations":[
+                        "-1.7845056,36.8345088",
+                        "-1.7845697874987079,26.84286176675567",
+                        "-1.9659663253682383,36.752979853019205"
+                    ],
+                    "bird_images_urls":[
+                        "https://cdn.pixabay.com/photo/2015/08/27/13/32/striated-heron-910481_1280.jpg",
+                        "https://cdn.pixabay.com/photo/2016/02/08/20/21/bird-1187567_1280.jpg",
+                        "https://cdn.pixabay.com/photo/2016/02/11/00/37/bird-1192937_1280.jpg"
+                    ]
+                },{
+                    "bird_id":2,
+                    "local_name":"Squacco Heron",
+                    "scientific_name":"Ardeola ralloides",
+                    "conservation_status":"",
+                    "general_status":"Visitor",
+                    "sound_url":"https://scance.000webhostapp.com/olpejata_sounds/Bird-Song-Hero_12.mp3",
+                    "bird_age": 21,
+                    "category":"Ground bird",
+                    "description":"This small and stocky heron measures 40-49 cm in length and has a wingspan of 82-95 cm. It has a short neck and a short thick bill.",
+                    "bird_sightings":[
+                        {
+                            "sighting_id": 31,
+                            "birds_count": 5
+                        },{
+                            "sighting_id": 32,
+                            "birds_count": 31
+                        },{
+                            "sighting_id": 24,
+                            "birds_count": 15
+                        }  
+                    ],
+                    "bird_locations":[
+                        "-1.7845056,36.8345088",
+                        "-1.7845697874987079,26.84286176675567",
+                        "-1.9659663253682383,36.752979853019205"
+                    ],
+                    "bird_images_urls":[
+                        "https://cdn.pixabay.com/photo/2018/02/18/11/25/nature-3162010_1280.jpg",
+                        "https://cdn.pixabay.com/photo/2018/05/30/00/24/water-plan-3440451_1280.jpg",
+                        "https://cdn.pixabay.com/photo/2018/08/25/15/41/bird-3630338_1280.jpg"
+                    ]
+                }       
+                
+                ]
+        }
+    ]
+}
+}
